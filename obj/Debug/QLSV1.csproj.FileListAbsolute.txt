@@ -1,0 +1,7 @@
+D:\1651\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+D:\1651\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+D:\1651\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+D:\1651\QLSV1\QLSV1\obj\Debug\QLSV1.csproj.AssemblyReference.cache
+D:\1651\QLSV1\QLSV1\obj\Debug\QLSV1.csproj.CoreCompileInputs.cache
+D:\1651\QLSV1\QLSV1\obj\Debug\QLSV1.exe
+D:\1651\QLSV1\QLSV1\obj\Debug\QLSV1.pdb
